@@ -1,0 +1,127 @@
+@media(max-width:1000px){
+.founder{
+    display: none;
+}
+.master{
+    display: none;
+}
+.blog{
+    display: none;
+}
+.doyou{
+    display:;
+}
+.about{
+    display: none;
+}
+
+}
+
+
+
+.conteinar{
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    background-image: url(backpic1.jpg);
+ 
+  
+}
+.navbar{
+    height: auto;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+ width: 90%;
+    background-color: black;
+    display: flex;
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-left: 5%;
+}
+.ycircle{
+    width: 30px;
+    margin-left: 50px;
+}
+.founder{
+   margin-left: 80px;  
+    text-decoration: none;  
+    font-size: 20px;
+    color: yellow;
+    margin-top: 2px;
+    justify-content: center;
+}
+.master{
+    margin-left: 80px;  
+     text-decoration: none;  
+     font-size: 20px;
+     color: white;
+     margin-top: 2px;
+ }
+ .blog{
+    margin-left: 80px;  
+     text-decoration: none;  
+     font-size: 20px;
+     color: white;
+     margin-top: 2px;
+ }
+ .about{
+    margin-left: 80px;  
+     text-decoration: none;  
+     font-size: 20px;
+     color: white;
+     margin-top: 2px;
+ }
+ .do{
+    margin-left: 200px;
+    width:200px;
+    text-align: center;
+    display: inline-flex;
+ }
+ .doyou{
+     
+     text-decoration: none;  
+     font-size: 20px;
+     color: white;
+     margin-top: 2px;
+    }
+    .bapply{
+        color:black;
+        background-color: yellow;
+        border-radius: 10px;
+        width: 150px;
+        margin-left: 50px;
+        height: 40px;
+    }
+    .logo{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size:20px;
+        margin-top: 100px;
+    }
+    .conteinar2{
+        background-color: black;
+        width: 100%;
+        height: auto;
+        margin-left: 1.5px;
+
+    }
+    .tag{
+        justify-content: center;
+        align-items: center;
+        margin-left: ;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        text-decoration: none;
+    }
+    @media (max-width:767px) {
+       
+    }
+    .dicover{
+        text-align: center;
+        margin-top: 100px;
+    }
